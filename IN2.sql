@@ -1,0 +1,1 @@
+select * from sakila.film where special_features in ('Trailers', 'Trailers,Deleted Scenes') and rating in ('G','NC-17') and length > 100;

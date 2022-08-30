@@ -1,0 +1,1 @@
+SELECT * FROM sakila.rental WHERE ( customer_id between 300 and 350) and staff_id = 1;
