@@ -1,4 +1,4 @@
-**SQLpracticing**
+**🧪SQLpracticing**
 
 ✅ ALTERTABLE.sql            
 
